@@ -16,5 +16,5 @@
 * https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Pandas 
 
 #### Corey Schafer 範例 data
-* 123123132 
+* https://github.com/plembo/pandas-tutorials/tree/master/data
 
