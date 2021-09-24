@@ -1,10 +1,6 @@
-# Data-Analysis 數據分析
+# 110-1 Data-Analysis 數據分析 (EE5327701)
 
-## 課程臉書網頁
-
-https://www.facebook.com/groups/189644259942426
-
-Ⓞ EE303：數據分析 (EE5327701)
+* 課程臉書網頁：https://www.facebook.com/groups/189644259942426
 
 ![](static/Img/classQR.png)
 
