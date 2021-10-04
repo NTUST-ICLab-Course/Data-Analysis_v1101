@@ -1,4 +1,4 @@
-### Script of the data science: third week
+### Script of the data science: third week 
 2021/10/4
 
 ### Takeaway of last (first) week:
