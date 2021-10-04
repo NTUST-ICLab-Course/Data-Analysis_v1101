@@ -15,7 +15,6 @@
 
 ---------------------------------------------------
 Bonus question (10 points toward your final grade)
-
 爭取 A+ (期末全班10%= 5位)
 Bonus question公佈後，請於課程的 fb 貼出你的答案，
 第一位得基本分 10 分，
