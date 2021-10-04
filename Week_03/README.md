@@ -1,14 +1,20 @@
 ### Script of the data science: third week 
 2021/10/4
 
-### Takeaway of last (first) week:
+### 課程錄影
+* 影片連結： 
+  * 
+  * 
+  * https://www.youtube.com/watch?v=1OFQeZZL9AI
+
+#### Takeaway of last (first) week:
 1.	Install anaconda + jupyter
 2.	Finish reading Chapter 2 of the textbook
 3.	Try out ch02.ipynb
 4.	Try out Corey Schafer’s Python Pandas Tutorial (part 1)
 5.	Register Kaggle and participate in the survey
 
-### Takeaway:
+#### Takeaway:
 1.	Get a gapps.ntust.edu.tw account for yourself so next time you don’t need permission to get into our class google meet room
 2.	Finish reading Chapter 3 of the textbook
 3.	Finish out ch03.ipynb
