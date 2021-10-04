@@ -1,5 +1,8 @@
 ## Chapter 01: 寫在前面
 
+#### 課程錄影
+* 影片連結：https://www.youtube.com/watch?v=kEnKmHcR7b0
+
 #### 安裝 Anaconda 環境以及使用 Jupyter Notebook
 * 影片連結：https://www.youtube.com/watch?v=BClf6SRyGz0
 * Anaconda 網站：https://www.anaconda.com/products/individual
