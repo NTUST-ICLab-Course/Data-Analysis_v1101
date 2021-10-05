@@ -5,7 +5,7 @@
 * 影片連結： 
   * 
   * 
-  * https://www.youtube.com/watch?v=1OFQeZZL9AI
+  * https://youtube.com/playlist?list=PLShgvZ9iIXDtecRlT12eGXe71msBbslbj
 
 #### Takeaway of last (first) week:
 1.	Install anaconda + jupyter
