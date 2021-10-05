@@ -3,9 +3,9 @@
 
 ### 課程錄影
 * 影片連結： 
-  * 
-  * 
-  * https://youtube.com/playlist?list=PLShgvZ9iIXDtecRlT12eGXe71msBbslbj
+  * Week 3-1 https://youtu.be/-SD4OkOogYk
+  * Week 3-2 https://youtu.be/1E6tlhnVf88
+  * Week 3-3 https://youtu.be/1OFQeZZL9AI
 
 #### Takeaway of last (first) week:
 1.	Install anaconda + jupyter
