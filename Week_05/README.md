@@ -1,5 +1,5 @@
 ### Script of the data science: third week 
-2021/10/4
+2021/10/18
 
 ### 課程錄影
 * 影片連結： 
