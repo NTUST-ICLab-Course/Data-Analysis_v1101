@@ -16,6 +16,3 @@
 4.	Finish out ch05.ipynb
 5.  Finish Yahoo_Tickers.ipynb
 6. Start planning your mid-term essay(expect three weeks away)
-
-
-
