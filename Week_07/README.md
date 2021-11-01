@@ -11,4 +11,4 @@
 #### Takeaway:
 1.	Finish reading Chapter 6 of the textbook
 2.	Finish out ch06.ipynb
-3.  Start planning your mid-term essay
+3.  Start planning your mid-term report
