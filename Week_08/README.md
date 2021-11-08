@@ -3,9 +3,9 @@
 
 ### 課程錄影
 * 影片連結： 
-  * Week 8-1 
-  * Week 8-2 
-  * Week 8-3 
+  * Week 8-1 https://youtu.be/769UFbejwi4
+  * Week 8-2 https://youtu.be/fX8Q8by6fCQ
+  * Week 8-3 https://youtu.be/A3kDMDKNO0E
 
 
 #### Takeaway:
