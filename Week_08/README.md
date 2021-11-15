@@ -9,9 +9,9 @@
 
 
 #### Takeaway:
-1.	Finish reading Chapter 7 of the textbook
+1.	Finish reading Chapter 6 of the textbook
 
-2.	Finish out ch07.ipynb
+2.	Finish out ch06.ipynb
 
 3.	Try out: html
 	Failed Bank List
