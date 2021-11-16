@@ -3,9 +3,10 @@
 
 ### 課程錄影
 * 影片連結： 
-  * Week 9-1 
-  * Week 9-2 
-  * Week 9-3 
+  * Week 9-1 : https://youtu.be/p2pZHGCRgXM
+  * Week 9-2 : https://youtu.be/yLwHCXwd7SU
+  * Week 9-3 : https://youtu.be/Lx-PV0dpRoA
+  * Bonus    : https://youtu.be/SheXLWlLXMc (台灣股市盤後統計分析)
 
 
 #### Takeaway from last week :
