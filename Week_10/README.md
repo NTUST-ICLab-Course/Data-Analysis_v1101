@@ -1,4 +1,4 @@
-### Script of the data science : ninth week 
+### Script of the data science : tenth week 
 2021/11/22
 
 ### 課程錄影
