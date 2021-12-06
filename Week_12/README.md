@@ -3,10 +3,10 @@
 
 ### 課程錄影
 * 影片連結： 
-  * Week 12-1 : 
-  * Week 12-2 : 
-  * Week 12-3 : 
-  * 資料分析課程分析：同儕評分 :
+  * Week 12-1 : https://youtu.be/p-4yxwFeNhY
+  * Week 12-2 : https://youtu.be/csowQXRc5rU
+  * Week 12-3 : https://youtu.be/JWqz1gCmbG0
+  * 資料分析課程分析：同儕評分 : https://youtu.be/44RtE6uqG6g
   
 #### 建置期中專題報告的表格
 1. 期中報告：{姓名、引用資料庫名稱、YouTube link、引用的 code analysis、期中報告上傳fb/moodle日期與時分秒的時間}
