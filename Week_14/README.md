@@ -3,6 +3,6 @@
 
 ### 課程錄影
 * 影片連結： 
-  * Week 14-1 : 
-  * Week 14-2 : 
-  * Week 14-3 : 
+  * Week 14-1 : https://youtu.be/QSXHJ49-gVc
+  * Week 14-2 : https://youtu.be/steex6cDxfI
+  * Week 14-3 : https://youtu.be/wtvy7XkD2xY

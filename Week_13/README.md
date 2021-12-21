@@ -3,6 +3,6 @@
 
 ### 課程錄影
 * 影片連結： 
-  * Week 13-1 : 
-  * Week 13-2 : 
-  * Week 13-3 : 
+  * Week 13-1 : https://youtu.be/dxhH4DhEC0c
+  * Week 13-2 : https://youtu.be/npAui8a8yec
+  * Week 13-3 : https://youtu.be/rCkGDgzZR8c
