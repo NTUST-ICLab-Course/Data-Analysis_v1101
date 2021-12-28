@@ -12,19 +12,19 @@
 
 ### 2022/1/10(一) 晚上23 : 59前，請繳交你的『期末』專題報告，內容包括：
 * 問題描述 → 這要與你最後要呈報結論中的貢獻一致
-	* 新的內容：與期中報告中你所 survey 別人作的有什麼不一樣？
-	* ※{資料探討/分析模型} 的背景 → 先教育評分同儕
-	* Your OWN Code in jupyter notebook → 請 highlight 至少5個你覺得比較厲害或是特別好用的 python 指令
-	* 結論：自我評估最棒的，還有哪些可加強的。
+* 新的內容：與期中報告中你所 survey 別人作的有什麼不一樣？
+* ※{資料探討/分析模型} 的背景 → 先教育評分同儕
+* Your OWN Code in jupyter notebook → 請 highlight 至少5個你覺得比較厲害或是特別好用的 python 指令
+* 結論：自我評估最棒的，還有哪些可加強的。
 
 ### 同時繳交：
-1.	貼文在我們課程臉書的社群
-(1)	PPT or word file
-(2)	至少20分鐘的video on youTube
-2.	Moodel作業區繳交
-(1)	程式碼
-(2)	PPT or word file
-(3)	至少20分鐘的video on youTube
+1.貼文在我們課程臉書的社群
+	* PPT or word file
+	* 至少20分鐘的video on youTube
+2.Moodel作業區繳交
+	* 程式碼
+	* PPT or word file
+	* 至少20分鐘的video on youTube
 
 ### 期末互評分數給分區間依照期中評分為標準 
 #### {1/6 A+}{1/3 A or A-}{1/4 B+}{1/4 B or B-}
