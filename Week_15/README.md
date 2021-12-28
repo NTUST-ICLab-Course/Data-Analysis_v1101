@@ -19,12 +19,12 @@
 
 ### 同時繳交：
 1.貼文在我們課程臉書的社群
-	* PPT or word file
-	* 至少20分鐘的video on youTube
+	(1) PPT or word file
+	(2) 至少20分鐘的video on youTube
 2.Moodel作業區繳交
-	* 程式碼
-	* PPT or word file
-	* 至少20分鐘的video on youTube
+	(1)程式碼
+	(2)PPT or word file
+	(3)至少20分鐘的video on youTube
 
 ### 期末互評分數給分區間依照期中評分為標準 
 #### {1/6 A+}{1/3 A or A-}{1/4 B+}{1/4 B or B-}
