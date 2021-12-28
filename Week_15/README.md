@@ -18,10 +18,10 @@
 * 結論：自我評估最棒的，還有哪些可加強的。
 
 ### 同時繳交：
-1.貼文在我們課程臉書的社群
+* 貼文在我們課程臉書的社群
 	(1) PPT or word file
 	(2) 至少20分鐘的video on youTube
-2.Moodel作業區繳交
+* Moodel作業區繳交
 	(1)程式碼
 	(2)PPT or word file
 	(3)至少20分鐘的video on youTube
