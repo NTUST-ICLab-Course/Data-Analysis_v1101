@@ -3,9 +3,9 @@
 
 ### 課程錄影
 * 影片連結： 
-  * Week 15-1 : 
-  * Week 15-2 : 
-  * Week 15-3 : 
+  * Week 15-1 : https://youtu.be/CJhYkFvezw0
+  * Week 15-2 : https://youtu.be/giF_uWggtHM
+  * Week 15-3 : https://youtu.be/gSgRy-X_x-c
 
 ### 2021年底Data Analysis 期末專題報告
 2021/12/27
